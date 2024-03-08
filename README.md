@@ -11,3 +11,4 @@ so here is changes
 #new thing
 
 #and what about going with function "fetch"
+I think it is good practice
