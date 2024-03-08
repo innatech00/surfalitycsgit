@@ -1,0 +1,14 @@
+Как подтянуть файл из отдельной ветки из гита
+
+In both cases, start by fetching from the remote repository to make sure you have all the latest changes downloaded.
+
+$ git fetch
+This will fetch all of the remote branches for you. You can see the branches available for checkout with:
+
+$ git branch -v -a
+
+...
+git switch branchname
+
+внести изменения
+git push
